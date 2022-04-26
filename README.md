@@ -1,14 +1,22 @@
+# Peyton Bechard
+
 ### Welcome 👋
 
-#### Experience with:
-##### Python
+My name is Peyton Bechard and I am a self-taught developer with about 2 years of experience. I'm currently looking to make the transition from CS education to a software developer role. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
+
+### Python
   Tkinter
   Django
   Data Structures
   Algorithms
+  ...
 
-##### Java
+### Java
   AP Computer Science A subset
+  
+### HTML
+### CSS
+### JavaScript
 
   
   
