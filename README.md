@@ -14,18 +14,10 @@ My name is Peyton Bechard and I am a self-taught developer with about 2 years of
 ## Skills
 
 ### Python
-- Tkinter
-- Django
-- Data Structures
-- Algorithms
-- ...
+
+### HTML, CSS, & JavaScript
 
 ### Java
-- AP Computer Science A subset
-  
-### HTML
-### CSS
-### JavaScript
 
 
 ## Check out some of my recent projects:
