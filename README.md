@@ -1,16 +1,21 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**pmbechard/pmbechard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Experience with:
+##### Python
+  Tkinter
+  Django
+  Data Structures
+  Algorithms
 
-Here are some ideas to get you started:
+##### Java
+  AP Computer Science A subset
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+
+- 🔭 I’m currently working on expanding my knowledge of web development.
+- 🌱 I’m currently learning Javascript, Node.js, and React.
+- 💬 Ask me about my experience teaching CS in China and working as a tour manager in North Korea!
+- 📫 How to reach me: Instagram (@pmbech) or LinkedIn (https://www.linkedin.com/in/peyton-bechard/)
+- ⚡ Fun fact: I'm also a synthesizer enthusiast and try to make at least one short track every day.
+
