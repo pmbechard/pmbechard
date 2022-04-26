@@ -1,5 +1,4 @@
-# Peyton Bechard
-
+<img src="Peyton_Bechard2.png" alt="Peyton Bechard">
 
 ## Introduction
 
