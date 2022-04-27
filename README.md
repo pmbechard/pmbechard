@@ -1,4 +1,4 @@
-<img src="Peyton_Bechard2.png" alt="Peyton Bechard">
+<img width="100%" src="Peyton_Bechard2.png" alt="Peyton Bechard">
 
 ## Introduction
 
@@ -11,7 +11,7 @@ My name is Peyton Bechard and I am a self-taught developer with about 2 years of
 - ⚡ Fun fact: I'm also a synthesizer enthusiast and try to make at least one short track every day.
 
 
-## Laguages
+## Languages
 
 - ### Python
 - ### HTML, CSS, & JavaScript
