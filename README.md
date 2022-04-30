@@ -1,4 +1,4 @@
-<img width="100%" src="Peyton_Bechard2.png" alt="Peyton Bechard">
+<img width="100%" src="github_banner.png" alt="Peyton Bechard">
 
 <br>
 <h2 align="center">Introduction</h2>
