@@ -18,7 +18,7 @@ My name is Peyton Bechard and I am a self-taught developer with about 2 years of
 
 
 <br>
-<h2 align="center">Frequenly Used Technologies</h2>
+<h2 align="center">Frequently Used Technologies</h2>
 
 
 <div align="center">
