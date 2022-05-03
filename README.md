@@ -35,6 +35,7 @@ My name is Peyton Bechard and I am a self-taught developer with about 2 years of
 <br>
 <h2 align="center">Check out some of my recent projects:</h2>
 
+- A Tic Tac Toe game with varying difficulty made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/Impossible-TicTacToe/) [Repo](https://github.com/pmbechard/Impossible-TicTacToe)
 - An online library system made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/Library/) [Repo](https://github.com/pmbechard/Library)
 - A sample sign up page made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/Sign-Up-Page/) [Repo](https://github.com/pmbechard/Sign-Up-Page)
 - A sample admin dashboard page made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/Admin-Dashboard/) [Repo](https://github.com/pmbechard/Admin-Dashboard)
