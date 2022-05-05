@@ -1,4 +1,4 @@
-<img width="100%" src="github_banner.png" alt="Peyton Bechard">
+<img width="100%" src="images/banner.png" alt="Peyton Bechard">
 
 <br>
 <h2 align="center">Introduction</h2>
@@ -16,10 +16,8 @@ My name is Peyton Bechard and I am a self-taught developer with about 2 years of
 - 💬 Ask me about my experience teaching CS in China and working as a tour manager in North Korea!
 - ⚡ Fun fact: I'm also a synthesizer enthusiast and try to make at least one short track every day.
 
-
 <br>
 <h2 align="center">Frequently Used Technologies</h2>
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
@@ -31,7 +29,6 @@ My name is Peyton Bechard and I am a self-taught developer with about 2 years of
 </div>
 <br>
 
-  
 <br>
 <h2 align="center">Check out some of my recent projects:</h2>
 
@@ -46,7 +43,6 @@ My name is Peyton Bechard and I am a self-taught developer with about 2 years of
 - Another hangman game, but made with Python and Tkinter with adjustable difficulty and word lengths: [Repo](https://github.com/pmbechard/Tk-Hangman)
 - An iOS calculator replica made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/iOS-Calculator-Replica/) [Repo](https://github.com/pmbechard/iOS-Calculator-Replica)
 - One of my first big projects; a GUI that streamlines the report card-making process for Rosedale GHS Classroom Teachers. It uses Python with several libraries including Kivy and BeautifulSoup4: [Repo](https://github.com/pmbechard/Rosedale-GHS-Reporting-System)
-
 
 <br>
 <h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
