@@ -61,7 +61,7 @@ My name is Peyton Bechard and I am a self-taught developer with about 2 years of
   
   <h3 align="center">A GUI that displays a daily aphorism from Kim Jong-un made with Python</h3>
   <img src="images/kjuAphorisms.png" height="200px"><br>
-  <a href="https://pmbechard.github.io/KimJongUnAphorisms/">Live</a>&nbsp;&nbsp;<a href="https://github.com/pmbechard/KimJongUnAphorisms">Repo</a>
+  <s>Live</s>&nbsp;&nbsp;<a href="https://github.com/pmbechard/KimJongUnAphorisms">Repo</a>
   <br><br>
     
   <h3 align="center">A site for making pixel art made with HTML, CSS, and JavaScript</h3>
