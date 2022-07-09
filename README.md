@@ -8,7 +8,7 @@
 <br>
 <h2 align="center">Introduction</h2>
 
-My name is Peyton Bechard and I am a self-taught developer with about 2 years of experience. I'm currently looking to make the transition from CS education to a software developer role. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
+My name is Peyton Bechard and I am a self-taught developer with 2 YOE. Currently looking for a remote position.
 
 <br>
 <div align="center">
@@ -17,9 +17,9 @@ My name is Peyton Bechard and I am a self-taught developer with about 2 years of
 <br>
 
 - 🔭 I’m currently working on expanding my knowledge of full-stack web development.
-- 🌱 I’m currently learning advanced Javascript leading into more about Node.js and then React.
+- 🌱 I’m currently learning React.
 - 💬 Ask me about my experience teaching CS in China and working as a tour manager in North Korea!
-- ⚡ Fun fact: I'm also a synthesizer enthusiast and try to make at least one short track every day.
+- ⚡ Fun fact: I'm also a synthesizer hobbyist and try to make at least one short track every day.
 
 <br>
 <h2 align="center">Frequently Used Technologies</h2>
