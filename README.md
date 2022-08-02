@@ -47,4 +47,4 @@ My name is Peyton Bechard and I am a self-taught developer with 2 YOE. Currently
 </div>
 <br>
 <br>
-<p align="center" style="font-size: 24px">Feel free to reach out. Thanks for visiting!</h2>
+<p align="center">Feel free to reach out. Thanks for visiting!</p>
