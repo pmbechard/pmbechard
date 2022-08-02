@@ -8,7 +8,7 @@
 <br>
 <h2 align="center">Introduction</h2>
 <div align="center">
-My name is Peyton Bechard and I am a self-taught developer with 2 YOE. Currently looking for a remote position.
+Self-taught developer with over 2 years of experience. Currently seeking a remote position.
   </div>
 
 <br>
