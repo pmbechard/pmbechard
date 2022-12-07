@@ -18,7 +18,7 @@ Self-taught developer with over 2 years of experience. Currently seeking a remot
 <br>
 
 - 🔭 I’m currently working on expanding my knowledge of full-stack web development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning more Three.js and 3D modeling with Blender.
 - 💬 Ask me about my experience teaching AP CS A and AP CS P in China and working as a tour manager in North Korea!
 - ⚡ Fun fact: I'm also a synthesizer hobbyist and try to make at least one short track every day.
 
@@ -36,6 +36,7 @@ Self-taught developer with over 2 years of experience. Currently seeking a remot
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=FFF&style=for-the-badge">
   <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
