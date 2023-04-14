@@ -8,19 +8,23 @@
 <br>
 <h2 align="center">Introduction</h2>
 <div align="center">
-Self-taught developer with over 2 years of experience. Currently seeking a remote position.
-  </div>
+  
+  Fullstack Dev @ Koryo Studio
+  
+  AP CS teacher in China
+  
+  Learning sound design, advanced mathematics, 3d modeling, and more
+  
+  DSA every day
+  
+  Former tour guide in North Korea
+</div>
+  
 
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pmbechard&theme=blue-green">
 </div>
-<br>
-
-- 🔭 I’m currently working on expanding my knowledge of full-stack web development.
-- 🌱 I’m currently learning more Three.js and 3D modeling with Blender.
-- 💬 Ask me about my experience teaching AP CS A and AP CS P in China and working as a tour manager in North Korea!
-- ⚡ Fun fact: I'm also a synthesizer hobbyist and try to make at least one short track every day.
 
 <br>
 <h2 align="center">Frequently Used Technologies</h2>
