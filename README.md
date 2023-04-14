@@ -9,7 +9,7 @@
 <h2 align="center">Introduction</h2>
 <div align="center">
   
-  Fullstack Dev @ Koryo Studio
+  Full-stack Dev @ Koryo Studio
   
   AP CS teacher in China
   
