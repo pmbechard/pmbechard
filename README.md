@@ -6,6 +6,7 @@
 </p>
 
 <br>
+
 <h2 align="center">Introduction</h2>
 <div align="center">
   
@@ -19,16 +20,10 @@
   
   Former tour guide in North Korea
 </div>
-  
 
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pmbechard&theme=blue-green">
-</div>
 
-<br>
 <h2 align="center">Frequently Used Technologies</h2>
-
 <div align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -54,9 +49,18 @@
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmbechard&theme=blue-green">
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pmbechard&theme=blue-green">
+</div>
+
 <br>
 <br>
+
 <p align="center">Feel free to reach out. Thanks for visiting!</p>
