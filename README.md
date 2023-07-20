@@ -55,12 +55,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pmbechard&theme=blue-green">
-</div>
-
-<br>
 <br>
 
 <p align="center">Feel free to reach out. Thanks for visiting!</p>
