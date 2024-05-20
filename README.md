@@ -1,4 +1,5 @@
-<img width="100%" src="./banner.png" alt="Peyton Bechard">
+<h1 align="center">Peyton Bechard</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/peyton-bechard/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/pmbech"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -7,18 +8,19 @@
 
 <br>
 
-<h2 align="center">Introduction</h2>
 <div align="center">
+
+  Georgia Tech OMSCS Student
   
-  Full-stack Dev @ Koryo Studio
+  MA Humanities Graduate
   
-  AP CS teacher in China
+  Full-stack Developer @ Koryo Studio
   
-  Learning sound design, advanced mathematics, 3d modeling, and more
+  High School CS and Math Teacher
   
-  DSA every day
+  DPRK Project Manager
   
-  Former tour guide in North Korea
+  Licensed Canadian Risk Manager
 </div>
 
 <br>
@@ -46,12 +48,6 @@
   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmbechard&theme=blue-green">
 </div>
 
 <br>
