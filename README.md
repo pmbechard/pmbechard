@@ -10,9 +10,9 @@
 
   Full-stack Developer @ Koryo Studio
   
-  MS Computer Science @ Georgia Tech (Interactive Intelligence Spec.)
+  MS Computer Science @ Georgia Tech
   
-  MA Humanities @ York (Asian Studies Grad. Diploma)
+  MA Humanities @ York University
   
   Licensed Canadian Risk Manager
 </div>
